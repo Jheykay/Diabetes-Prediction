@@ -5,5 +5,5 @@ xgboost
 seaborn
 lightgbm
 pyarrow
-svm
 scipy
+streamlit
